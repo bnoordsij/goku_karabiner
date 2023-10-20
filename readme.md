@@ -39,6 +39,9 @@ If everything went well, you should immediately be able to use the new bindings
 ## Basic bindings
 There are some bindings I have found I cannot go without
 
+### Learning curve
+I have to be honest, the timing is quite intuitive and most of the time does not conflict with regular typing
+
 ### Option - open
 These are based on the order they appear in Dock
 - 1 Forklift (or Finder)
