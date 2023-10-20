@@ -37,10 +37,10 @@ If everything went well, you should immediately be able to use the new bindings
 
 
 ## Basic bindings
-There are some bindings I have found I cannot go without, these work much better on a Windows...
+There are some bindings I have found I cannot go without
 
 ### Option - open
-In order of dock applications
+These are based on the order they appear in Dock
 - 1 Forklift (or Finder)
 - 2 Firefox
 - 3 Notes
@@ -60,6 +60,6 @@ In order of dock applications
 
 ### k - delete
 There are multiple, but the most useful one:
-x - Delete
+- x Delete
 
 
